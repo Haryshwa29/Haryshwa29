@@ -35,7 +35,7 @@ I enjoy breaking systems in controlled lab environments just to understand how t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaithe-haryshwa-nair/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@haryshwanair29)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haryshwanair29@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-haryshwa-5865F2?logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-harryn2910-5865F2?logo=discord&logoColor=white)
 
 ---
 
@@ -66,8 +66,8 @@ I enjoy breaking systems in controlled lab environments just to understand how t
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haryshwa29&theme=dark&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryshwa29&theme=dark&hide_border=true&layout=compact&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Haryshwa29&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Haryshwa29&theme=dark&hide_border=true&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Haryshwa29&theme=dark&hide_border=true)
 
 ---
