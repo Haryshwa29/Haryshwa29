@@ -63,12 +63,11 @@ I enjoy breaking systems in controlled lab environments just to understand how t
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
 ---
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Haryshwa29&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Haryshwa29&theme=dark&hide_border=true&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Haryshwa29&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Haryshwa29&theme=dark&hide_border=true&layout=compact)
 
 ---
 
