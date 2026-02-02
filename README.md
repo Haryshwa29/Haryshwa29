@@ -63,7 +63,6 @@ I enjoy breaking systems in controlled lab environments just to understand how t
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
 ---
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
