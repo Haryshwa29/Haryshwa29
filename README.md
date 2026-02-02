@@ -65,7 +65,7 @@ I enjoy breaking systems in controlled lab environments just to understand how t
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Haryshwa29&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haryshwa29&theme=dark&hide_border=true&v=1)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Haryshwa29&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Haryshwa29&theme=dark&hide_border=true&layout=compact)
 
