@@ -66,9 +66,9 @@ I enjoy breaking systems in controlled lab environments just to understand how t
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haryshwa29&theme=dark&hide_border=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Haryshwa29&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryshwa29&theme=dark&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haryshwa29&theme=dark&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haryshwa29&theme=dark&hide_border=true&layout=compact&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=Haryshwa29&theme=dark&hide_border=true)
 
 ---
 
@@ -78,4 +78,4 @@ I enjoy breaking systems in controlled lab environments just to understand how t
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Haryshwa29&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=Haryshwa29&label=Profile%20views&color=0e75b6&style=flat)
